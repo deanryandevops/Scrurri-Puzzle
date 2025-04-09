@@ -46,10 +46,14 @@ Additionally, a library is available that supports validating and formatting UK 
 - pip install requests
 - To run the UK Post Code Validator, install the required dependency:
 
-### To execute, run from main.py
+#### To Execute
+##### Run the application
+`python PostCodeValidator/main.py`
 
 ### ThreeFive Problem
 
 Write a program that prints the numbers from 1 to 100. But for multiples of three, print "Three" instead of the number, and for multiples of five, print "Five". For numbers that are multiples of both three and five, print "ThreeFive".
 
-### To execute, run from main.py
+#### To Execute
+##### Run the application
+`python ThreeFiveProblem/main.py`

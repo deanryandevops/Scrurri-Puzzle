@@ -42,13 +42,22 @@ Additionally, a library is available that supports validating and formatting UK 
 
 - Special Cases: Some areas have unique postcodes, such as BF postcodes for British Forces.
 
+### IDE Used : PyCharm
+
 ### Pre-requisite
 - pip install requests
+- pip install pytest
 - To run the UK Post Code Validator, install the required dependency:
 
 #### To Execute
 ##### Run the application
 `python PostCodeValidator/main.py`
+
+#### To Execute Tests through PyCharm
+#### Open PyCharm or any IDE and right click on the tests_postcode.py and run full suite or run individually
+
+![image](https://github.com/user-attachments/assets/1cecb2f2-8dbc-4ce2-bad6-857f13c69e53)
+
 
 ### ThreeFive Problem
 
